@@ -1,0 +1,4 @@
+rootProject.name = 'gestionjoueurs'
+
+include ':back'
+include ':front'
