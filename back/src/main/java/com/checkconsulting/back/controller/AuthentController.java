@@ -12,6 +12,6 @@ public class AuthentController {
 
     @GetMapping("/isAuthenticated")
     public String isAuthenticated() {
-        return "test ok";
+        return "test ok modifié sur develop";
     }
 }
